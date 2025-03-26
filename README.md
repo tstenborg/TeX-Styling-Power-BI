@@ -13,4 +13,4 @@ Software Requirements
 - Power BI Service (for online rendering).<br />
 - Python (with Matplotlib, for local rendering).<br />
 
-Reference: Stenborg, T 2025, "Styling Power BI Dashboards with TeX", TUGboat, vol. 46, no. 1 (submitted).
+Reference: Stenborg, T 2025, "Styling Microsoft Power BI dashboards with TeX", TUGboat, vol. 46, no. 1 (in press).
