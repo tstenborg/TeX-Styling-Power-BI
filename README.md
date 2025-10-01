@@ -26,12 +26,12 @@ The Power BI dashboard holds native visuals and a Matplotlib scatterplot. An exa
 
 ### Python Configuration
 
-As the dashboard uses Python-enabled visuals, Power BI should be configured to execute Python. To do this, via the Power BI 2025 menu options, go to:
+As the dashboard uses Python-enabled visuals, Power BI should be configured to execute Python. To do this, via the Power BI Desktop 2025 menu options, go to:
 
 - File -> Options and settings -> Options -> Global -> Python scripting.
-- Ensure a valid path to a Python installation is specified in the "Detected Python home directories" field.
+- Ensure a valid path to the home directory of a Python installation is specified.
 
-Please ensure the following Python packages are installed:
+Please ensure the Python installation has the following packages installed:
 
 - matplotlib.
 - pandas.
