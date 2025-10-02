@@ -5,7 +5,7 @@ Styling Power BI dashboards with TeX.
 ---
 
 <figure style="width:700px;">
-  <img src="TeXStyledDashboard.png" alt="Power BI dashboard for a diabetes dataset." height="371" width="700">
+  <img src="TeXStyledDashboard.png" alt="Power BI dashboard for a diabetes dataset." width="700" height="371">
   <figcaption>Figure 1. TeX-styled Power BI dashboard for a gestational diabetes dataset.</figcaption>
 </figure>
 
